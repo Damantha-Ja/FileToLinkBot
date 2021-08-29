@@ -1,5 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@Damantha_Jasinghe](https://github.com/Damantha126).
+This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005/PyroFilesStoreBot).
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -49,6 +49,13 @@ This is Telegram Parmanent Files Store Bot by [@Damantha_Jasinghe](https://githu
 ### Deploy Now:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Damantha126/FileToLinkBot)
 
+# 🧙‍♀️ Deploy Guide
+
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=BAgK95gkyN8)](https://www.youtube.com/watch?v=BAgK95gkyN8)
+
+☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=BAgK95gkyN8) ☆
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=BAgK95gkyN8)
 ## Commands:
 ```
 /start - start the bot
@@ -62,4 +69,6 @@ This is Telegram Parmanent Files Store Bot by [@Damantha_Jasinghe](https://githu
 ### Support Group:
 <a href="https://t.me/AnkiSupport_Official"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
+# Special Credits ❤
 
+## ✪ [Abir Hasan](https://github.com/AbirHasan2005/PyroFilesStoreBot) - Owner Of This Repo
